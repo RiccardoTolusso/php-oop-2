@@ -2,58 +2,64 @@
     "food":[
         {
             "name": "food 1",
+            "image": "https://www.tecnosida.it/wp-content/uploads/2021/02/pet-food-e1627546336363.jpg.webp",
             "price": 12.99,
-            "discount": 20,
+            "discount": null,
             "animal": "all",
             "description": "lorem ipsum dolor sit amet",
-            "weight": 32.5,
-            "ingredients": []
+            "weight": 10,
+            "ingredients": ["carote", "pollo", "cereali"]
         },
         {
             "name": "food 2",
+            "image": "https://www.tecnosida.it/wp-content/uploads/2021/02/pet-food-e1627546336363.jpg.webp",
             "price": 12.99,
             "discount": 20,
             "animal": "all",
             "description": "lorem ipsum dolor sit amet",
-            "weight": 32.5,
+            "weight": 10,
             "ingredients": []
         }
     ],
     "doghouse": [
         {
             "name": "doghouse 1",
+            "image": "image_url",
             "price": 12.99,
             "discount": 20,
             "animal": "all",
             "description": "lorem ipsum dolor sit amet",
-            "dimensions": 32.5,
+            "dimensions": "32 x 45 cm",
             "materials": []
         },
         {
             "name": "doghouse 2",
+            "image": "image_url",
             "price": 12.99,
             "discount": 20,
             "animal": "all",
             "description": "lorem ipsum dolor sit amet",
-            "dimensions": 32.5,
+            "dimensions": "33 x 44 cm",
             "materials": []
         },
         {
             "name": "doghouse 3",
+            "image": "image_url",
             "price": 12.99,
             "discount": 20,
             "animal": "all",
             "description": "lorem ipsum dolor sit amet",
-            "dimensions": 32.5,
+            "dimensions": "33 x 44 cm",
             "materials": []
         },
         {
             "name": "doghouse 4",
+            "image": "image_url",
             "price": 12.99,
             "discount": 20,
             "animal": "all",
             "description": "lorem ipsum dolor sit amet",
-            "dimensions": 32.5,
+            "dimensions": "33 x 44 cm",
             "materials": []
         }
     ]

@@ -36,7 +36,7 @@ prodotto -> oggetto {
 }
     
 
-crea un file json contenente una lista di prodotti aventi le seguenti caratteristiche
+1. crea un file json contenente una lista di prodotti aventi le seguenti caratteristiche
 
 nome 
 prezzo
@@ -50,3 +50,6 @@ descrizione
 
     dimensione
     materiali
+
+2. crea la classe Product
+3. crea la classe food
