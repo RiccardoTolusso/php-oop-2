@@ -20,17 +20,16 @@ prodotto{
     prezzo
     sconto
     descrizione
+    consigliato per
 }
 
 prodotto -> alimentare{
     peso
     ingredienti
-    consigliato per
 }
 
 prodotto -> oggetto {
     dimensione
     materiali
 }
-    
     
