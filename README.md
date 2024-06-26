@@ -16,6 +16,8 @@ CATEGORIA:
 
 prodotto{
     id
+    made_for: cat dog all
+    category: food/toy/doghouse
     nome
     prezzo
     sconto
@@ -33,3 +35,18 @@ prodotto -> oggetto {
     materiali
 }
     
+
+crea un file json contenente una lista di prodotti aventi le seguenti caratteristiche
+
+nome 
+prezzo
+sconto (int or null)
+animal
+categoria food/toy/doghouse
+descrizione
+
+    peso
+    indgredienti
+
+    dimensione
+    materiali

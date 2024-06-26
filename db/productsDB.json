@@ -1,0 +1,60 @@
+{
+    "food":[
+        {
+            "name": "food 1",
+            "price": 12.99,
+            "discount": 20,
+            "animal": "all",
+            "description": "lorem ipsum dolor sit amet",
+            "weight": 32.5,
+            "ingredients": []
+        },
+        {
+            "name": "food 2",
+            "price": 12.99,
+            "discount": 20,
+            "animal": "all",
+            "description": "lorem ipsum dolor sit amet",
+            "weight": 32.5,
+            "ingredients": []
+        }
+    ],
+    "doghouse": [
+        {
+            "name": "doghouse 1",
+            "price": 12.99,
+            "discount": 20,
+            "animal": "all",
+            "description": "lorem ipsum dolor sit amet",
+            "dimensions": 32.5,
+            "materials": []
+        },
+        {
+            "name": "doghouse 2",
+            "price": 12.99,
+            "discount": 20,
+            "animal": "all",
+            "description": "lorem ipsum dolor sit amet",
+            "dimensions": 32.5,
+            "materials": []
+        },
+        {
+            "name": "doghouse 3",
+            "price": 12.99,
+            "discount": 20,
+            "animal": "all",
+            "description": "lorem ipsum dolor sit amet",
+            "dimensions": 32.5,
+            "materials": []
+        },
+        {
+            "name": "doghouse 4",
+            "price": 12.99,
+            "discount": 20,
+            "animal": "all",
+            "description": "lorem ipsum dolor sit amet",
+            "dimensions": 32.5,
+            "materials": []
+        }
+    ]
+}
