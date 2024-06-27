@@ -5,62 +5,68 @@
             "image": "https://www.tecnosida.it/wp-content/uploads/2021/02/pet-food-e1627546336363.jpg.webp",
             "price": 12.99,
             "discount": null,
-            "animal": "all",
+            "animal": "cat",
             "description": "lorem ipsum dolor sit amet",
             "weight": 10,
-            "ingredients": ["carote", "pollo", "cereali"]
+            "ingredients": ["carote", "pollo", "cereali"],
+            "stock": 10
         },
         {
             "name": "food 2",
-            "image": "https://www.tecnosida.it/wp-content/uploads/2021/02/pet-food-e1627546336363.jpg.webp",
+            "image": "https://www.ginginbeef.com/wp-content/uploads/2020/07/pet-food-600x400.jpg",
             "price": 12.99,
             "discount": 20,
-            "animal": "all",
+            "animal": "dog",
             "description": "lorem ipsum dolor sit amet",
             "weight": 10,
-            "ingredients": []
+            "ingredients": [],
+            "stock": 10
         }
     ],
     "doghouse": [
         {
             "name": "doghouse 1",
-            "image": "image_url",
+            "image": "https://www.shutterstock.com/image-photo/funny-pug-dog-house-600nw-137357879.jpg",
             "price": 12.99,
             "discount": 20,
-            "animal": "all",
+            "animal": "dog",
             "description": "lorem ipsum dolor sit amet",
             "dimensions": "32 x 45 cm",
-            "materials": []
+            "materials": [],
+            "stock": 0
         },
         {
             "name": "doghouse 2",
-            "image": "image_url",
+            "image": "https://pyxis.nymag.com/v1/imgs/b9b/7c8/6931d6841d1a6aa7e6ab67a4a9def00121-nala-and-company-cat-enclosure.rhorizontal.w600.jpg",
             "price": 12.99,
             "discount": 20,
-            "animal": "all",
+            "animal": "cat",
             "description": "lorem ipsum dolor sit amet",
             "dimensions": "33 x 44 cm",
-            "materials": []
+            "materials": [],
+            "stock": 10
         },
         {
             "name": "doghouse 3",
-            "image": "image_url",
+            "image": "https://www.shutterstock.com/image-photo/funny-pug-dog-house-600nw-137357879.jpg",
             "price": 12.99,
             "discount": 20,
             "animal": "all",
             "description": "lorem ipsum dolor sit amet",
             "dimensions": "33 x 44 cm",
-            "materials": []
+            "materials": [],
+            "stock": 10
         },
         {
             "name": "doghouse 4",
-            "image": "image_url",
+            "image": "https://www.shutterstock.com/image-photo/funny-pug-dog-house-600nw-137357879.jpg",
             "price": 12.99,
             "discount": 20,
             "animal": "all",
             "description": "lorem ipsum dolor sit amet",
             "dimensions": "33 x 44 cm",
-            "materials": []
+            "materials": [],
+            "stock": 10
         }
     ]
 }
